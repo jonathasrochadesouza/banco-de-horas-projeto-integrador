@@ -1,3 +1,3 @@
 # projeto-integrador-um
-** Gordon Moore **
+Gordon Moore<br>
 [definição do nome do produto]
