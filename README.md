@@ -9,5 +9,30 @@ Jonathas - Arquiteto
 Gabriel Ratke - Desenvolvedor back-end
 Henrique Hemman - Desenvolvedor back-end
 
+<br>
+Funções no desenvolvimento do projeto:
+
+<br>
+Ferramentas e tecnologias utilizadas nos processos do projeto:
+Asana
+Whatssap
+Eclipse
+C#
+React
+
+<br>
+Referencias mais utilizadas:
+W3 Schools
+Docs Microsoft
+Youtube 
+
+<br>
+Tecnologias e padrões de arquitetura:
+
+<br>
+Engenharia (Levantamento de requisitos):
+[Caminho onde se encontra os requisitos... PASTA DE ENGENHARIA NO PROJETO]
 
 [definição do nome do produto]
+
+# PADRONIZAR ESTE README
