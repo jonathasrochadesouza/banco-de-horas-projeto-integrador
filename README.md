@@ -19,6 +19,7 @@ Whatssap
 Eclipse
 C#
 React
+TortoiseGit
 
 <br>
 Referencias mais utilizadas:
