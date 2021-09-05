@@ -2,6 +2,9 @@ C# Microsoft
 -> https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 Pacote para uso do c# no vs code. Pacotes referentes a .Net, .Net Core, ASP.NET
 
+C# autocomplete
+-> Auto-Using for C#
+
 Thunder Client
 -> Serviço de requisições, ou melhor, API Client. Parecida com o Postman e o Insomnia.
 Está API Client nos permite testar as requisições de nossa API diretamente pelo vs code, de maneira rápida e eficaz!
