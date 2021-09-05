@@ -1,0 +1,26 @@
+>> David Oliveira:
+Definir os requisitos juntamente com o time
+Analisar e verificar o andamento do projeto
+Desenvolver o back-end do projeto
+Desenvolver diagramas relacionados a engenharia (como o 'casos de uso')
+Desenvolver a prototipação de tela juntamente com o Jonathas
+Desenvolver o design de tela juntamente com o Jonathas
+
+>> Gabriel ratke:
+Desenvolver o back-end do projeto
+Auxiliar em outras pendências do time
+
+>> Henrique Hemman:
+Desenvolver o back-end do projeto
+Auxiliar em outras pendências do time
+
+>> Jonathas Rocha:
+Arquitetura
+Diagrama de classes
+Definir tecnologias juntamente com o time
+Definir ferramentas juntamente com o time
+Desenvolver o back-end do projeto
+Desenvolver o front-end do projeto
+Desenvolver a "frame" do projeto (comunicação do back-end e do front-end)
+Desenvolver a prototipação de tela juntamente com o David
+Desenvolver o design de tela juntamente com o David

@@ -1,0 +1,3 @@
+01/09/2021
+
+> Deverá ser entregue os requisitos, diagramas, padrões de arquitetura e as tasks de desenvolvimento para a etapa 2 do processo!

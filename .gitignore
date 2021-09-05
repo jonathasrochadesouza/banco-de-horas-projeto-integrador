@@ -3,6 +3,13 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Mine?folks
+
+# Folders
+# [Ff]rontend/
+# [Bb]ackend/[Ll]ib
+# [Bb]ackend/[Ll]ib/[Ff]rame
+
 # User-specific files
 *.rsuser
 *.suo
