@@ -7,7 +7,7 @@ C# autocomplete
 
 Thunder Client
 -> Serviço de requisições, ou melhor, API Client. Parecida com o Postman e o Insomnia.
-Está API Client nos permite testar as requisições de nossa API diretamente pelo vs code, de maneira rápida e eficaz!
+Está API Client nos permite testar as requisições de nossa API diretamente pelo vs code, de maneira rápida e eficaz!!
 
 GitLens (https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 > Versionamento Git
