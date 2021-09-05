@@ -12,7 +12,7 @@ Está API Client nos permite testar as requisições de nossa API diretamente pe
 GitLens (https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 > Versionamento Git
 
-Others:6
+Others:
 Docker
 Material Icon Themes
 Live Server
