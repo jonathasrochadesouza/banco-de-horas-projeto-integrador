@@ -1,4 +1,0 @@
-Doc init c# in vs Code (Microsoft - vs code team)
-https://code.visualstudio.com/docs/languages/csharp
-
-

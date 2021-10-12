@@ -1,0 +1,31 @@
+Doc init c# in vs Code (Microsoft - vs code team)
+1: https://code.visualstudio.com/docs/languages/csharp
+2: https://youtu.be/S5HawDwjuUY
+
+Download .NET Core SDK (.NET Core 3.1)
+1: https://dotnet.microsoft.com/download
+
+Start .NET and hello word prompt
+1: https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.413-windows-x64-installer
+2: https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro?sdk-installed=true
+
+Insert command 'dotnet' im prompt in directory 'c/:'
+
+1: Open VS Code administrador mode
+2: Open prompt or command line in vs code
+
+COMMANDS
+
+'c ..'
+> return
+
+'c "paste/directory here"'
+> Access directory
+
+'dotnet new console'
+> start c# dotnet project in specification directory
+
+'dotnet run'
+> start
+
+create new filename.cs with button right or create file CS

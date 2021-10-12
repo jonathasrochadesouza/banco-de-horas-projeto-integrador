@@ -1,0 +1,8 @@
+commands
+
+1:  npx create-react-app 'your_project_name'
+2: 'your_project_name' access using 'cd'
+3: At the prompt or shell, type 'npm start'. In your project directory
+
+lib react to routers
+npm install react-router-dom
